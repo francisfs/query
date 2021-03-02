@@ -1,0 +1,1 @@
+SELECT * FROM francisley_ti2_ag3.apartamento;
